@@ -1,5 +1,5 @@
 pkgname=libslirp
-pkgver=4.7.0
+pkgver=4.8.0
 pkgrel=1
 pkgdesc='A user-mode networking library used by virtual machines, containers or various tools'
 arch=('x86_64')
